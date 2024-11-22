@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+section{
+  padding: 20px;
+  justify-content: center;
+  justify-items: center;
+  background-color: aqua;
+}
+input[type='submit']{
+  margin-left: 70px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+  width: 90px;
+}
